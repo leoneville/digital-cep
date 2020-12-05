@@ -1,0 +1,23 @@
+{
+    "name": "neville/digital-cep",
+    "description": "Busca de cep online",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leonardo Neville",
+            "email": "leoneville_@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Buscador": "src/"
+        },
+        "psr-4": {
+            "Neville\\DigitalCep\\": "src/"
+        }
+    }
+}
