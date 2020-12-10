@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Buscador": "src/"
+            "BuscadorViaCep": "src/"
         },
         "psr-4": {
             "Neville\\DigitalCep\\": "src/"
